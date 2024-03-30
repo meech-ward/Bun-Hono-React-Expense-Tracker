@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709104233669,
+      "tag": "0000_uneven_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709104771653,
+      "tag": "0001_useful_loki",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711923696442,
+      "tag": "0002_past_ricochet",
+      "breakpoints": true
+    }
+  ]
+}

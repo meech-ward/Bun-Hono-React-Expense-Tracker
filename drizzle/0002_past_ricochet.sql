@@ -1,0 +1,1 @@
+ALTER TABLE "expenses" ADD COLUMN "date" date NOT NULL;
